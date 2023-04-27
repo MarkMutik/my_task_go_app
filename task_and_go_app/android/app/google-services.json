@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "280923193213",
+    "project_id": "taskandgo-499a9",
+    "storage_bucket": "taskandgo-499a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280923193213:android:8293835ef5e48dce4f1614",
+        "android_client_info": {
+          "package_name": "com.example.task_and_go_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280923193213-m5pgsh887jacv96sh5mbphhusafpm60v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLbi571yRLU9TBngLTrnG-eikfSOwkXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280923193213-m5pgsh887jacv96sh5mbphhusafpm60v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280923193213-hki1b0aor6kllpvhvs8ak9s9hqatjdeo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskAndGoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
